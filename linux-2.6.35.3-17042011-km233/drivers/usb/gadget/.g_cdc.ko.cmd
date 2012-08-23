@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_cdc.ko := arm-linux-ld -EL -r  -T /home/felipe/35_kern_src/linux-2.6.35.3-17042011-km233/scripts/module-common.lds --build-id -o drivers/usb/gadget/g_cdc.ko drivers/usb/gadget/g_cdc.o drivers/usb/gadget/g_cdc.mod.o

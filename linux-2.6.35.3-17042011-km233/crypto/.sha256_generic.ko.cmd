@@ -1,0 +1,1 @@
+cmd_crypto/sha256_generic.ko := arm-linux-ld -EL -r  -T /home/felipe/35_kern_src/linux-2.6.35.3-17042011-km233/scripts/module-common.lds --build-id -o crypto/sha256_generic.ko crypto/sha256_generic.o crypto/sha256_generic.mod.o
