@@ -1,8 +1,8 @@
-/* This file is auto generated, version 22 */
+/* This file is auto generated, version 30 */
 /*  PREEMPT */
 #define UTS_MACHINE "arm"
-#define UTS_VERSION "#22 PREEMPT Wed Aug 22 14:55:32 COT 2012"
-#define LINUX_COMPILE_TIME "14:55:32"
+#define UTS_VERSION "#30 PREEMPT Mon Aug 27 15:43:21 COT 2012"
+#define LINUX_COMPILE_TIME "15:43:21"
 #define LINUX_COMPILE_BY "felipe"
 #define LINUX_COMPILE_HOST "felipe-Parallels-Virtual-Platform"
 #define LINUX_COMPILE_DOMAIN "(none)"
